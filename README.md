@@ -4,6 +4,12 @@ Entry for the make.fun bounty **news-image-20261123** ("Sum up 23 November's
 world news in one image"). Prize pool $100, 50 paid places (1st $20).
 Deadline: Wednesday 25 November 2026, 07:00 WIB (00:00 UTC).
 
+## make.fun
+
+![make.fun news-image-20261123](https://make.fun/badge/news-image-20261123.svg)
+![rank](https://make.fun/badge/news-image-20261123/koldolakbutut-lgtm/news-image-20261123/rank.svg)
+![reward](https://make.fun/badge/news-image-20261123/koldolakbutut-lgtm/news-image-20261123/reward.svg)
+
 ## What it is
 
 `main.ts` (Node 22, standard library only, no network) draws a one-page
